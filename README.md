@@ -2,9 +2,9 @@
 
 # Dr Rajan Prasad Tripathi
 
-**Director, AI Innovation Lab · Applied AI Researcher · RAG Systems · Multimodal Agents · EdTech & HealthTech AI**
+**Enterprise AI Engineer | GenAI Solutions Architect | RAG, VLMs, Multimodal Agents, Evaluation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajantripathi22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rajan-tripathi-phd-14135243)
 [![Email](https://img.shields.io/badge/Email-rajantripathi22%40gmail.com-D14836?style=flat&logo=gmail)](mailto:rajantripathi22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rajantripathi-181717?style=flat&logo=github)](https://github.com/rajantripathi)
 
@@ -12,72 +12,72 @@
 
 ---
 
-## 👨‍🔬 About Me
+## Enterprise AI Focus
 
-I am an **AI researcher and Director of an AI Innovation Lab**, specialising in **Retrieval-Augmented Generation (RAG)**, **multi-agent workflows**, and **multimodal AI** applied to healthcare, education, and the public sector.
+I build retrieval-grounded AI systems for document intelligence, multilingual search, biomedical workflows, and secure enterprise deployments.
 
-My work spans end-to-end system design — from embedding pipelines and vector stores through to agentic reasoning and evaluation frameworks — with a focus on **deployable, real-world AI** in multilingual and resource-constrained environments.
+Recent work combines multimodal RAG, vision-language models, hybrid retrieval, LangGraph-style orchestration, benchmark-driven evaluation, AWS reference architectures, and governance controls such as citations, audit logs, and human review.
 
-I deliver **NVIDIA DLI workshops**, advise on applied AI pilots, and lead student research projects at the intersection of NLP, computer vision, and agentic systems.
-
----
-
-## 🔬 Research Interests
-
-- **RAG Systems** — retrieval pipelines, chunking strategies, hybrid search, multilingual benchmarking
-- **Multi-Agent AI** — LangGraph, tool-use, orchestration, agentic decision-making
-- **Multimodal AI** — medical imaging + NLP fusion for clinical decision support
-- **AI in Education** — ADHD-aware study assistants, personalised learning agents
-- **Graph Neural Networks** — fraud detection, knowledge graphs
-- **Evaluation & Safety** — culturally grounded QA benchmarks, hallucination mitigation
+I am actively looking for enterprise AI roles where the work needs engineering discipline, measurable retrieval quality, and deployment-aware architecture.
 
 ---
 
-## 🚀 Featured Projects
+## Selected Work With Metrics
 
-| Project | Description | Stack |
-|---|---|---|
-| [🧬 Breast Cancer Multimodal AI](https://github.com/rajantripathi/Breast-Cancer-Multimodal-AI) | Multimodal fusion of imaging and clinical text for breast cancer diagnosis | Python, PyTorch, Transformers |
-| [🌍 SOAS RAG Evaluation](https://github.com/rajantripathi/soas-rag-evaluation) | Bilingual retrieval benchmark for culturally grounded QA (English & Uzbek) | Python, RAG, HuggingFace |
-| [🕵️ Cash for Crash](https://github.com/rajantripathi/cash-for-crash) | Insurance fraud detection using GNNs, RAG, and multi-agent systems | Python, PyG, LangChain |
-| [🤖 Multimodal Agentic AI — Biomedical](https://github.com/rajantripathi/Multimodal-Agentic-AI-for-Biomedical-Insight-and-Decision-Support) | Agentic pipeline for biomedical insight and clinical decision support | Python, LangGraph |
-| [🎓 NeuroLearn](https://github.com/rajantripathi/NeuroLearn) | AI study assistant tailored for students with ADHD | Python, LLM, RAG |
-| [📄 SmartDoc LangGraph Agent](https://github.com/rajantripathi/smartdoc-langgraph-agent) | PDF QA + calculator + LLM routing agent using LangGraph | Python, LangGraph |
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python · TypeScript · SQL
-**AI/ML:** PyTorch · HuggingFace Transformers · LangChain · LangGraph · scikit-learn
-**RAG & Search:** FAISS · ChromaDB · Weaviate · Ollama · OpenAI · Cohere
-**Agents:** LangGraph · CrewAI · AutoGen
-**Data:** Pandas · NumPy · Matplotlib · Seaborn
-**MLOps:** Docker · FastAPI · Streamlit · Git
-**Graph:** PyTorch Geometric (PyG) · NetworkX
+| Work | Enterprise signal | Evidence |
+| --- | --- | --- |
+| [CaseLens-VLM](https://github.com/rajantripathi/caselens-vlm) | Multimodal document RAG over scanned pages with Qwen3-VL, hybrid retrieval, citations, audit controls, and AWS architecture mapping | Recall@5 improved from `0.035` metadata-only to `0.708` with Qwen3-VL + BM25/MiniLM hybrid retrieval on 339 DocVQA questions |
+| [SOAS RAG Evaluation](https://github.com/rajantripathi/soas-rag-evaluation) | Bilingual RAG benchmark for culturally grounded English/Uzbek retrieval | Uzbek retrieval recall improved from `39%` to `98%` through corpus supplementation; Cohen's d = `2.91` |
+| [Breast Cancer Multimodal AI](https://github.com/rajantripathi/Breast-Cancer-Multimodal-AI) | Biomedical multimodal foundation-model benchmarking across pathology, genomics, clinical features, and mammography | CONCH V+C+G cross-attention C-index `0.609`; Stage 1 AUROC `0.741`; log-rank `p = 0.005` |
+| DialogXR / sovereign deployment work | Air-gapped enterprise AI deployment and multi-agent orchestration for secure environments | LangGraph orchestration, Llama 3.1 8B via Ollama, Lenovo ThinkSystem SR630 V4 deployment pattern |
+| NVIDIA DLI instruction | Enterprise AI enablement and applied training delivery | Delivered RAG and multimodal AI agent workshops for academic and engineering audiences |
 
 ---
 
-## 📊 GitHub Stats
+## Featured Repositories
+
+| Repository | What it demonstrates | Stack |
+| --- | --- | --- |
+| [caselens-vlm](https://github.com/rajantripathi/caselens-vlm) | VLM-assisted document intelligence, DocVQA retrieval evaluation, Slurm workflow, AWS reference architecture | Python, Qwen3-VL, BM25, MiniLM, Streamlit, Slurm |
+| [soas-rag-evaluation](https://github.com/rajantripathi/soas-rag-evaluation) | Multilingual RAG evaluation, corpus engineering, statistical comparison of retrieval interventions | Python, retrieval eval, Hugging Face, Isambard |
+| [Breast-Cancer-Multimodal-AI](https://github.com/rajantripathi/Breast-Cancer-Multimodal-AI) | Biomedical AI benchmarking with multimodal survival prediction and governance-aware deployment design | Python, PyTorch, pathology foundation models, survival analysis |
+| [open-course-rag-benchmark](https://github.com/rajantripathi/open-course-rag-benchmark) | Open educational RAG benchmark with licensing-aware data handling and reproducible evaluation | Python, BM25, dense retrieval, OpenStax, pytest |
+| [cash-for-crash](https://github.com/rajantripathi/cash-for-crash) | Insurance fraud detection architecture using graph ML, RAG, and multi-agent workflows | Python, PyTorch Geometric, LangChain |
+
+---
+
+## Technical Stack
+
+- **Languages:** Python, TypeScript, SQL
+- **RAG and Search:** BM25, hybrid retrieval, vector search, FAISS, ChromaDB, Weaviate, OpenSearch patterns
+- **LLM/VLM Systems:** Hugging Face Transformers, Qwen-VL, Llama, Ollama, OpenAI, Bedrock architecture patterns
+- **Agents:** LangGraph, LangChain, tool routing, multi-agent workflow design
+- **ML:** PyTorch, scikit-learn, survival analysis, pathology foundation models, graph neural networks
+- **Deployment:** Docker, FastAPI, Streamlit, Slurm, Apptainer, AWS reference architectures, on-prem/air-gapped design
+- **Evaluation:** Recall@k, MRR, AUROC, C-index, bootstrap confidence intervals, audit and failure taxonomy
+
+---
+
+## What I Bring To Enterprise Teams
+
+- Production-oriented RAG and document intelligence design, not just demo chatbots
+- Retrieval evaluation with explicit baselines, metrics, and failure analysis
+- Experience with multilingual, multimodal, healthcare, education, and public-sector AI use cases
+- Practical deployment thinking across AWS, HPC, on-prem, and air-gapped environments
+- Governance-aware design: citations, human review, audit logs, limitations, and measurable quality checks
+
+---
+
+## Open To
+
+- Senior Applied AI Engineer roles
+- Enterprise GenAI / RAG Engineer roles
+- AI Solutions Architect roles
+- Multimodal document intelligence and healthcare AI roles
+- Remote or hybrid opportunities across the UK, EU, UAE, and enterprise AI teams globally
+
+---
 
 <div align="center">
-
-![Rajan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajantripathi&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajantripathi&layout=compact&hide_border=true&langs_count=6)
-
-</div>
-
----
-
-## 🤝 Open To
-
-- 🎓 **Fellowships & Summer Schools** — AI, NLP, ML research programmes (EU, UK, Middle East)
-- 🤝 **Research Collaborations** — Multilingual NLP, healthcare AI, agentic systems
-- 🏫 **Workshop Delivery** — NVIDIA DLI, applied LLM, RAG system design
-- 💼 **AI Consulting** — RAG deployments, pilot design, model evaluation
-
----
-
-<div align="center">
-<i>Building AI systems that work in the real world — across languages, cultures, and constraints.</i>
+<i>Building evaluated AI systems for real enterprise constraints: retrieval quality, provenance, governance, and deployment.</i>
 </div>
