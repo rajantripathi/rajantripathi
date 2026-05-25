@@ -18,7 +18,11 @@ I build retrieval-grounded AI systems for document intelligence, multilingual se
 
 Recent work combines multimodal RAG, vision-language models, hybrid retrieval, LangGraph-style orchestration, benchmark-driven evaluation, AWS reference architectures, and governance controls such as citations, audit logs, and human review.
 
-I am actively looking for enterprise AI roles where the work needs engineering discipline, measurable retrieval quality, and deployment-aware architecture.
+I am open to enterprise AI roles where the work needs engineering discipline, measurable retrieval quality, and deployment-aware architecture.
+
+**Best repositories to review first:** [CaseLens-VLM](https://github.com/rajantripathi/caselens-vlm), [SOAS RAG Evaluation](https://github.com/rajantripathi/soas-rag-evaluation), and [Breast Cancer Multimodal AI](https://github.com/rajantripathi/Breast-Cancer-Multimodal-AI).
+
+**Target roles:** Applied AI Engineer, Enterprise GenAI Engineer, RAG/LLM Engineer, AI Solutions Architect.
 
 ---
 
